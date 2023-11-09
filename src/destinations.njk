@@ -4,5 +4,21 @@
 
 {% block page_description %}A list of destinations for travelers to exlore.{% endblock %}
 
-
+{% block content %}
+  <div class="container">
+    <div class="row">
+      <div class="col-12 col-md-8 offset-md-2">
+        <h1>Destinations</h1>
+        <p>Browse through any of these 10 destinations to read Q+As with college students and recommendations for each travel spot!</p>
+        <div class="blog-list">
+          {% for country in destinations.blogs %}
+            <div class="blog-entry">
+              <a href="destinations/{{ country.slug }}.html" target="_blank">{{ country.headline }}</a>
+            </div>
+          {% endfor %}
+        </div>
+      </div>
+    </div>
+  </div>
+{% endblock %}
 
