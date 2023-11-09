@@ -6,8 +6,16 @@
 <p>{{ value | safe }}</p>
 {% endmacro %}
 
+{% macro bighead(value) %}
+<h2>{{ value | safe }}</h2>
+{% endmacro %}
+
 {% macro subhead(value) %}
 <h3>{{ value | safe }}</h3>
+{% endmacro %}
+
+{% macro littlehead(value) %}
+<h4>{{ value | safe }}</h4>
 {% endmacro %}
 
 {% macro img(value) %}

@@ -20,7 +20,17 @@
 
 // Import partials
 @import 'nav';
+@import 'jumbotron';
 
 h3 {
   font-size: 1.5rem;
+  font-family: 'Georgia', sans-serif;
+}
+
+h1 {
+  font-family: 'Georgia', sans-serif;
+}
+
+h2 {
+  font-family: 'Georgia', sans-serif;
 }

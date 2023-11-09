@@ -1,0 +1,26 @@
+{% extends '_templates/base.njk' %}
+
+{% block page_title %}Industry Insights{% endblock %}
+
+{% block page_description %}Feature articles about aviation professionals.{% endblock %}
+
+{% block content %}
+<article class="container">
+  <h1>Industry Insights</h1>
+  <p>Learn about the aviation geek life, flight attendants, efficient packing, solo travel and travel safety tips from the experts.</p>
+     <div class="row">
+    {% for feature in insights.experts %}
+    <div class="col-sm-6 col-lg-4">
+      <div class="card mb-4 bg-info text-black">
+        <div class="card-body">
+          <h5 class="card-title">{{ feature.headline }}</h5>
+          <a href="industry/{{ feature.slug }}.html" target="_blank" class="btn btn-primary">Read more</a>
+        </div>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+  </div>
+</article>
+{% endblock %}
+ 

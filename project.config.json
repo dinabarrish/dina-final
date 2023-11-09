@@ -10,6 +10,18 @@
       "type": "sheet",
       "name": "bookstores"
     }
+    ,
+    {
+      "fileId": "1BTwmxW6rac0K_u8Q5FSDgCbQ8p06iMERdWSC1_fB1j4",
+      "type": "doc",
+      "name": "insights"
+    }
+    ,
+    {
+      "fileId": "10azcRZpxJ05FXMi5yd6BK1JsOrZpZ9us-i83DHb5K5w",
+      "type": "doc",
+      "name": "destinations"
+    }
   ],
   "to_bake": [
     {
@@ -18,6 +30,24 @@
       "array": "books",
       "slug": "slug",
       "path": "books"
+    },
+
+    {
+      "template": "bake-industry",
+      "data": "insights",
+      "array": "experts",
+      "slug": "slug",
+      "path": "industry"
+    },
+
+    {
+      "template": "bake-destinations",
+      "data": "destinations",
+      "array": "blogs",
+      "slug": "slug",
+      "path": "destinations"
     }
   ]
 }
+
+

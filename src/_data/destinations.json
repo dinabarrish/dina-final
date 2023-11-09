@@ -1,0 +1,1902 @@
+{
+  "blogs": [
+    {
+      "slug": "tlv",
+      "headline": "Explore Tel Aviv",
+      "image": "tlv.jpg",
+      "post": [
+        {
+          "type": "text",
+          "value": "Tel Aviv has the best beaches in the world. Not that I’ve been everywhere in the world, but somehow I’m confident in this. The tayalet, or boardwalk, is full of people running, scootering, playing music, and just enjoying themselves and the water is beautiful and great for swimming. I’ve been lucky enough to spend seven trips in Tel Aviv (most of them organized tours, plus a summer spent living there), and I’m *hopefully* returning in January."
+        },
+        {
+          "type": "text",
+          "value": "This past April was a special Tel Aviv trip for me and my best friend Rikki – our first time planning the entire itinerary ourselves. We were both abroad in Madrid and flew in for Spring Break. After spending a few nights with family and friends in other parts of Israel, we headed to Tel Aviv and had the absolute best time. Some highlights included shopping at Shuk Hacarmel (a big outdoor market near the beach with food and souvenirs), eating shakshuka (my favorite Israeli food!), relaxing on the beach for nearly four hours and picnicking on a big lawn overlooking the Mediterranean Sea. We kept saying that we felt like we’d opened a bottle and poured out a day of summer. Perfect doesn’t begin to cover it."
+        },
+        {
+          "type": "text",
+          "value": "My strongest recommendation is to remember sunscreen! Rikki and I ended up so sunburnt, and it took weeks and bottles of aloe to relieve the burns. But it was more than worth it. I can’t wait to return to this amazing city and country."
+        },
+        {
+          "type": "bighead",
+          "value": "TLV Recommendations"
+        },
+        {
+          "type": "subhead",
+          "value": "Public transportation"
+        },
+        {
+          "type": "list",
+          "value": [
+            {
+              "type": "text",
+              "value": "You can use the bus, bike or car to explore the city. You can pay with cash or use a Rav-Kav card, which is a smart card that you can load with money or passes."
+            }
+          ]
+        },
+        {
+          "type": "subhead",
+          "value": "Hostels"
+        },
+        {
+          "type": "list",
+          "value": [
+            {
+              "type": "text",
+              "value": "Abraham Hostel Tel Aviv: A spacious and social hostel in the heart of the city, near Rothschild Boulevard. It offers free breakfast, free walking tours, free pub crawls, free bike tours, free yoga classes, free Wi-Fi, free lockers and free towels."
+            },
+            {
+              "type": "text",
+              "value": "Florentin House: A chic and sleek hostel in the trendy Florentin neighborhood. It offers an onsite restaurant and bar, a rooftop terrace, a steam room, a laundry service, a luggage storage, a Wi-Fi, lockers, towels and linens."
+            },
+            {
+              "type": "text",
+              "value": "Selina Tel Aviv Beach: A beachfront and vibrant hostel in the popular Tel Aviv Port area. It offers a coworking space, a wellness center, a surf club, a restaurant and bar, a laundry service, a luggage storage, Wi-Fi, lockers, towels and linens."
+            }
+          ]
+        },
+        {
+          "type": "subhead",
+          "value": "Restaurants"
+        },
+        {
+          "type": "list",
+          "value": [
+            {
+              "type": "text",
+              "value": "Falafel Hakosem: Israelis drive from all over to eat at this legendary falafel and shawarma restaurant in the heart of Tel Aviv. Prepare for long lines, but it’s worth it: many crown Hakosem the best falafel in the country."
+            },
+            {
+              "type": "text",
+              "value": "Cafe Schneor: A five-minute’s walk from the beach sits an adorable and delicious cafe. Schneor offers amazing coffee, cocktails, breakfast, lunch and dinner. Their green shakshuka is particularly popular. What’s not to love?"
+            },
+            {
+              "type": "text",
+              "value": "Old Man and the Sea: On the historic Jaffa port in Southern Tel Aviv, pay $20 for pita and dips with unlimited refills. This is the perfect spot for large group meals and a great excuse to venture to Jaffa."
+            }
+          ]
+        },
+        {
+          "type": "subhead",
+          "value": "Nightlife"
+        },
+        {
+          "type": "list",
+          "value": [
+            {
+              "type": "text",
+              "value": "Kuli Alma: A hip and artsy nightclub in Tel Aviv that features live music, DJ sets, art exhibitions, and graffiti walls. It also has a patio, a lounge, and a pizza bar."
+            },
+            {
+              "type": "Dizzy",
+              "value": "On Sunday nights, visit this bar on Dizengoff for the bottomless wine special."
+            },
+            {
+              "type": "Concierge",
+              "value": "A cocktail bar with funky drinks that come in even funkier presentations, such as a garbage can, skeleton and penguin. Go for dinner and happy hour."
+            }
+          ]
+        },
+        {
+          "type": "subhead",
+          "value": "Excursions"
+        },
+        {
+          "type": "list",
+          "value": [
+            {
+              "type": "Jaffa",
+              "value": "Go to the ancient port that is now a vibrant cultural hub, and wander through its narrow alleys, art galleries and flea market."
+            },
+            {
+              "type": "text",
+              "value": "Tel Aviv Museum of Art: Visit this modern building that houses a collection of Israeli and international art, as well as temporary exhibitions."
+            },
+            {
+              "type": "Beach",
+              "value": "Stretching along the Mediterranean coast, the beach offers a variety of activities, such as surfing, volleyball or sunbathing."
+            },
+            {
+              "type": "text",
+              "value": "Shuk Hakarmel: Shop for souvenirs and delicious food at this open-air market. Locals and tourists alike enjoy strolling through on the way to the beach or as a meal stop."
+            }
+          ]
+        },
+        {
+          "type": "subhead",
+          "value": "Safety"
+        },
+        {
+          "type": "list",
+          "value": [
+            {
+              "type": "text",
+              "value": "Stay alert for any signs of trouble, such as sirens, explosions, or protests. Follow the instructions of the authorities and seek shelter if necessary."
+            },
+            {
+              "type": "text",
+              "value": "Avoid traveling to the West Bank or Gaza Strip without proper guidance and permission."
+            },
+            {
+              "type": "text",
+              "value": "Respect the local culture and customs, especially during religious holidays such as Shabbat or Yom Kippur. Dress modestly when visiting holy sites and do not take photos without permission."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "madrid",
+      "headline": "Explore Madrid",
+      "image": "madrid.jpg",
+      "post": [
+        {
+          "type": "text",
+          "value": "Full disclosure: I’m highly biased about this city. Madrid has everything – nature, museums, culture, food and tons of excitement. For someone like me who loves being in the center of the action, It was the ideal study abroad city. Because I stayed in Madrid for much longer than a weekend, I’m going to describe a few of my favorite spots."
+        },
+        {
+          "type": "text",
+          "value": "First, Parque Retiro – a huge park with a Crystal Palace, peacock garden, rose garden, sculpture garden, boats on the water and so much more. I loved coming to Retiro to read, chat with friends and just walk around. It’s so beautiful and such an easy metro stop, especially from line two."
+        },
+        {
+          "type": "text",
+          "value": "Casa De Campo is also lovely to walk through and much less touristy than Retiro. You’ll eventually reach a small lake surrounded by restaurants and coffee stands, and you can rent boats here just like at Retiro. I enjoyed long runs and semester reflections with friends at the Casa De Campo lake."
+        },
+        {
+          "type": "text",
+          "value": "Malasaña district is the best area for college students (I did live there, so this is again my biased opinion). It offers a wide variety of bars, coffee shops and thrift stores, all within walking distance from nearby universities. Ojalá, a beach-themed bar with a floor of sand, and Federal Cafe, a must-go spot for coffee, brunch, and study dates, are just two daily Malasaña highlights."
+        },
+        {
+          "type": "text",
+          "value": "If you’re lucky enough to visit Madrid on the second weekend of the month, check out Mercado de Motores: an indoor/outdoor market in an abandoned train station. Local jewelers and artists sell their work at affordable prices, and the options are less picked-over than at the popular Sunday market, El Rastro."
+        },
+        {
+          "type": "text",
+          "value": "Eat as many patatas bravas as you can, order a tinto de verano (or two or three) and dance all night in this vibrant capital city."
+        },
+        {
+          "type": "bighead",
+          "value": "Recommendations"
+        },
+        {
+          "type": "subhead",
+          "value": "Public transportation"
+        },
+        {
+          "type": "list",
+          "value": [
+            {
+              "type": "text",
+              "value": "You can use the metro, bus, train, or taxi to get around the city. The metro is fast and efficient, with 13 lines and over 300 stations. You can buy a single ticket or a 10-trip ticket, or use a tourist travel pass for unlimited rides."
+            }
+          ]
+        },
+        {
+          "type": "subhead",
+          "value": "Hostels"
+        },
+        {
+          "type": "list",
+          "value": [
+            {
+              "type": "text",
+              "value": "Sungate One: A cozy and social hostel in the heart of the city, near Puerta del Sol. It offers free breakfast, free dinner, free walking tours, free pub crawls, free laundry service, free luggage storage, free Wi-Fi, free lockers, free towels, free earplugs, free coffee and tea."
+            },
+            {
+              "type": "text",
+              "value": "Ok Hostel Madrid: A modern and stylish hostel in the lively La Latina neighborhood. It offers free breakfast, free dinner (with optional sangria), free walking tours, free pub crawls, free Wi-Fi, free lockers, free towels, free linens and free maps."
+            },
+            {
+              "type": "text",
+              "value": "Way Hostel: A funky and friendly hostel in the vibrant Tirso de Molina area. It offers free breakfast, free walking tours, free pub crawls, free tapas tours, free flamenco shows, free Wi-Fi, free lockers, free towels, free linens and free maps."
+            }
+          ]
+        },
+        {
+          "type": "subhead",
+          "value": "Restaurants"
+        },
+        {
+          "type": "list",
+          "value": [
+            {
+              "type": "Botin",
+              "value": "This is the oldest restaurant in the world, dating back to 1725. It specializes in traditional Spanish cuisine, such as roast suckling pig, lamb and garlic soup. It is located near Plaza Mayor and has a cozy and historic atmosphere."
+            },
+            {
+              "type": "text",
+              "value": "La Bola: A family-run restaurant that has been serving authentic cocido madrileño, a hearty stew of meat, vegetables and chickpeas, since 1870. It is located near the Royal Palace and has a rustic and charming decor."
+            },
+            {
+              "type": "text",
+              "value": "Casa Lucio: A famous restaurant that attracts celebrities and politicians with its signature dish of huevos estrellados, fried eggs with potatoes and ham. It also offers other classic Spanish dishes, such as croquettes, tortilla,and bacalao. It is located in the La Latina neighborhood."
+            }
+          ]
+        },
+        {
+          "type": "subhead",
+          "value": "Nightlife"
+        },
+        {
+          "type": "list",
+          "value": [
+            {
+              "type": "Kapital",
+              "value": "A huge and famous nightclub in Madrid that has seven floors with different music styles, such as house, hip hop, salsa, karaoke and pop. It also has a cinema, a terrace and a VIP area. It is located near Atocha train station."
+            },
+            {
+              "type": "text",
+              "value": "El Junco: A cozy and cool jazz club in Madrid that hosts live music every night, featuring local and international artists. It also has a DJ set on weekends, playing funk, soul, disco,and house. It is located near Alonso Martinez metro station."
+            },
+            {
+              "type": "text",
+              "value": "Espit Chupitos:  All over Europe, Espit Chupitos offers more than 600 different types of shots with quirky names. Some of the shots include group games and competitions. Go with your friends to kick off a memorable night."
+            }
+          ]
+        },
+        {
+          "type": "subhead",
+          "value": "Excursions"
+        },
+        {
+          "type": "list",
+          "value": [
+            {
+              "type": "text",
+              "value": "Royal Palace: The official residence of the Spanish royal family. Admire its lavish rooms and artworks on a tour."
+            },
+            {
+              "type": "text",
+              "value": "Prado Museum: One of the world’s finest art galleries. See masterpieces by Velázquez, Goya and more."
+            },
+            {
+              "type": "text",
+              "value": "Flamenco Shows: Watch a live show of this passionate dance and music at a traditional theater."
+            }
+          ]
+        },
+        {
+          "type": "subhead",
+          "value": "Safety"
+        },
+        {
+          "type": "list",
+          "value": [
+            {
+              "type": "text",
+              "value": "Be aware of pickpockets, especially in crowded areas such as Puerta del Sol, Plaza Mayor,and Gran Via. Keep your valuables close to you and do not leave them unattended."
+            },
+            {
+              "type": "text",
+              "value": "Avoid walking alone at night in dark or isolated streets. Use public transportation or taxis instead."
+            },
+            {
+              "type": "text",
+              "value": "Beware of scams, such as people offering you flowers, bracelets or CDs for free or for a donation. They might try to distract you or charge you more than expected."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "italy",
+      "headline": "Explore Cinque Terre",
+      "image": "italy.jpg",
+      "post": [
+        {
+          "type": "text",
+          "value": "Maddie Harris is a senior neuroscience major at College of William and Mary. While I was abroad in Madrid, Maddie studied in Florence, Italy. I spoke with Maddie about her two-day adventure in Cinque Terre with a few of her roommates abroad. She has lots to share about activities and food in the beautiful city."
+        },
+        {
+          "type": "Postcards",
+          "value": "How did you pack for your trip?"
+        },
+        {
+          "type": "Maddie",
+          "value": "I brought a backpack with a swimsuit, a change of clothes for the next day, pajamas and my toiletries."
+        },
+        {
+          "type": "Postcards",
+          "value": "How did you choose to go to Cinque Terre?"
+        },
+        {
+          "type": "Maddie",
+          "value": "I had heard so many great things about it, and I loved the movie Luca, which was based on this region!"
+        },
+        {
+          "type": "Postcards",
+          "value": "What was the itinerary of your day trip from Florence to Cinque Terre?"
+        },
+        {
+          "type": "Maddie",
+          "value": "We departed Florence with our study abroad program, taking a bus at 6:45 am and reaching La Spezia around 9 am. We then boarded a ferry to Porto Venere, explored the area and later took another ferry to Vernazza for shopping and relaxation by the water. We then traveled to Monterosso, had a late lunch and returned to La Spezia by ferry. We ended the night playing games and chatting."
+        },
+        {
+          "type": "Postcards",
+          "value": "What excursions did you do in Cinque Terre?"
+        },
+        {
+          "type": "Maddie",
+          "value": "We took a train from La Spezia to Corniglia, grabbing breakfast before purchasing hiking trail tickets. Initially, we had trouble finding the hike entrance in Corniglia. Once we found it, we went on a challenging hike through narrow cliff paths and steep sections, ending up in Monterosso. Our non-hiking friends waited for us at the beach, where we enjoyed the ocean, met a girl from Germany and had lunch. Following a gelato stop, we took a train back to La Spezia and then to Florence."
+        },
+        {
+          "type": "Postcards",
+          "value": "What was a moment on your trip that made you laugh?"
+        },
+        {
+          "type": "Maddie",
+          "value": "Seeing our sweat stains on our butts when we put down our backpacks in the middle of the hike."
+        },
+        {
+          "type": "Postcards",
+          "value": "What do you wish you would have known going into your trip?"
+        },
+        {
+          "type": "Maddie",
+          "value": "I didn’t realize how close Cinque Terre was to Genoa (the birthplace of pesto) so I wish I got more pesto pasta! The seafood there was also great, I’ve heard (but I’m a vegetarian, so I didn’t try any)."
+        },
+        {
+          "type": "Postcards",
+          "value": "Where did you stay?"
+        },
+        {
+          "type": "Maddie",
+          "value": "I stayed in an airbnb in La Spezia, Italy (not technically part of Cinque Terre but very close to it and accessible to travel to Cinque Terre by train/bus!)"
+        },
+        {
+          "type": "Postcards",
+          "value": "Why is this a good place for college students to travel?"
+        },
+        {
+          "type": "Maddie",
+          "value": "Gets you active with pretty views! While there were older people doing the hike too, I think it’s probably easier to do when you’re younger! Also to just do the hike and go to the beach was pretty inexpensive (the pass for the hike was just 7.50 euros with our European visa as students there for the semester, but it might be 18.20 euros without one), the food was also pretty well priced, and of course window shopping (my favorite past time) is free if you don’t buy anything. So there was a lot to do for free/cheap! There also were a lot of people of all ages there, from young kids, to college students to older adults."
+        },
+        {
+          "type": "bighead",
+          "value": "Recommendations"
+        },
+        {
+          "type": "subhead",
+          "value": "Public transportation"
+        },
+        {
+          "type": "list",
+          "value": [
+            {
+              "type": "text",
+              "value": "You can use the train, boat or hiking to explore the five villages. The train is the fastest and most convenient way to travel between them and runs frequently along the coast. You can buy a single ticket or a Cinque Terre Card, which includes unlimited train rides and access to hiking trails and museums. The boat service is seasonal and scenic, but more expensive and dependent on weather conditions. The hiking trails are challenging but rewarding, offering stunning views of the sea and the villages.<a href=\"https://www.introducingmadrid.com/transport\"> </a>"
+            }
+          ]
+        },
+        {
+          "type": "subhead",
+          "value": "Hostels"
+        },
+        {
+          "type": "list",
+          "value": [
+            {
+              "type": "Corvara",
+              "value": "Just outside the Cinque Terre National Park, this hostel offers free breakfast, free dinner, free shuttle service to the train station and the hiking trails, free Wi-Fi, free lockers, free towels and free linens.  It also has a terrace with views of the valley."
+            },
+            {
+              "type": "text",
+              "value": "Ostello Tramonti: A budget and clean hostel in the village of Biassa, near Riomaggiore. It offers free breakfast, free shuttle service to Riomaggiore and La Spezia, free Wi-Fi, free lockers and free linens. It also has a restaurant and a bar."
+            },
+            {
+              "type": "text",
+              "value": "Grand Hostel Manin: A chic and comfortable hostel in the city of La Spezia, near the train station that connects to the Cinque Terre villages. It offers free Wi-Fi, free lockers, free towels and free linens. It also has a garden, a lounge and a kitchen."
+            }
+          ]
+        },
+        {
+          "type": "subhead",
+          "value": "Restaurants"
+        },
+        {
+          "type": "list",
+          "value": [
+            {
+              "type": "Belforte",
+              "value": "A romantic and scenic restaurant in Vernazza that serves seafood and Ligurian cuisine with a twist. It is located on a cliff overlooking the sea and has a breathtaking view of the village."
+            },
+            {
+              "type": "text",
+              "value": "Ristorante Miky: A family-owned and popular restaurant in Monterosso al Mare that serves seafood and Italian cuisine with an emphasis on quality and freshness. It is located near the beach and has a cozy and rustic design."
+            },
+            {
+              "type": "text",
+              "value": "Trattoria dal Billy: A charming and rustic restaurant in Manarola that serves seafood and Mediterranean cuisine with a focus on local ingredients and flavors. It offers a variety of dishes such as grilled sardines, homemade pasta with pesto, mixed seafood platter and lemon cake. It is located on a hill overlooking the sea and has a view of the village."
+            }
+          ]
+        },
+        {
+          "type": "subhead",
+          "value": "Nightlife"
+        },
+        {
+          "type": "list",
+          "value": [
+            {
+              "type": "text",
+              "value": "Blue Marlin Cafe: A cozy and friendly wine bar in Vernazza that offers live music, karaoke and DJ sets. You can enjoy a variety of wines, cocktails, and snacks while listening to some tunes or singing along. The cafe is open until 2 a.m. on weekends and 1 a.m. on weekdays."
+            },
+            {
+              "type": "Burgus",
+              "value": "A stylish and modern wine bar in Vernazza that features a selection of local and international wines, beers and spirits. You can also taste some delicious cheese, salami, and other appetizers while admiring the view of the harbor. The bar is open until midnight every day."
+            },
+            {
+              "type": "text",
+              "value": "Nusesa Pizzeria Cocktail Bar: A casual and fun spot in Riomaggiore that serves pizza, cocktails and desserts. You can sit outside on the terrace or inside the colorful and quirky interior. The bar is open until 11 p.m. every day."
+            }
+          ]
+        },
+        {
+          "type": "subhead",
+          "value": "Excursions"
+        },
+        {
+          "type": "list",
+          "value": [
+            {
+              "type": "text",
+              "value": "At Sea: Take a boat tour or kayak rental with Cinque Terre dal Mare and enjoy the stunning views of the coastline and the villages. You can choose between private and group tours, with professional skippers and English or Italian speaking guides. This is a great way to experience the beauty and charm of Cinque Terre from the sea."
+            },
+            {
+              "type": "Cooking",
+              "value": "Learn how to make pesto, a traditional Ligurian sauce, with Cinque Terre Tours or Vernazza Cinque Sensi You will use fresh basil, garlic, pine nuts, cheese and olive oil to create your own delicious pesto, which you can then enjoy with pasta and wine. You will also learn about the history and culture of Cinque Terre and taste local products such as cheese olive oil, and wine."
+            },
+            {
+              "type": "text",
+              "value": "Blue Trail Hiking: If you want to hike along the famous Blue Trail that connects the five villages of Cinque Terre, you can start from Monterosso al Mare and end in Riomaggiore. This hike is about 11 km long and takes about 5 hours to complete. You will need to buy a hiking card for €7.50 to access this trail. Along the way, you will see stunning views of the coast, the colorful houses and the terraced vineyards. You will also pass through Vernazza, Corniglia and Manarola, where you can stop for a break or explore the towns."
+            }
+          ]
+        },
+        {
+          "type": "subhead",
+          "value": "Safety"
+        },
+        {
+          "type": "list",
+          "value": [
+            {
+              "type": "text",
+              "value": "Be prepared for the hiking trails that connect the five villages. They can be steep, narrow, slippery, and crowded. Wear comfortable shoes, bring water and snacks and check the weather conditions before you go."
+            },
+            {
+              "type": "text",
+              "value": "Beware of the mosquitoes that can be annoying and carry diseases such as malaria and dengue fever."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "rica",
+      "headline": "Explore Costa Rica",
+      "image": "rica.jpg",
+      "post": [
+        {
+          "type": "text",
+          "value": "Sneha Mohan is a junior computer science Major at the University of Illinois. She interned with me at United Airlines this past summer. Costa Rica had been on Sneha’s “trip wish list” since the beginning of our internship, and I was so excited to speak with her about when she finally had the opportunity to travel there."
+        },
+        {
+          "type": "Postcards",
+          "value": "How did you choose to go to Costa Rica?"
+        },
+        {
+          "type": "Sneha",
+          "value": "Actually, I had been wanting to go to Costa Rica for a while. I’d traveled to Europe several times during the summer with friends, and I felt like it was time for a change. South America offered a different cultural experience, and since I had learned Spanish in high school, it seemed like the perfect opportunity. Plus, Costa Rica is known for ecotourism, which I’m really interested in."
+        },
+        {
+          "type": "Postcards",
+          "value": "Walk me through your trip, from start to finish."
+        },
+        {
+          "type": "Sneha",
+          "value": "Sure! We landed in Costa Rica on a Friday night after a series of layovers. We found a bunch of cost-efficient hostel options, and we booked beds at one of them. After landing, we went to a nearby casino. The next morning, we embarked on a full-day excursion. We initially planned to use a GetYourGuide tour, but by the time we went to buy tickets, the tour had sold out. We ended up renting a car and following a similar itinerary. We visited a coffee plantation, a waterfall and La Fortuna (which had a volcano). We also did lots of activities like hiking and birdwatching. We saw incredible wildlife, including snakes and sloths. The day ended with a visit to hot springs and a traditional Costa Rican dinner."
+        },
+        {
+          "type": "Postcards",
+          "value": "What was a moment on the trip that made you laugh?"
+        },
+        {
+          "type": "Sneha",
+          "value": "The entire drive back from the mountains in complete darkness was an unexpected adventure, and we were a bit lost. We were screaming because there were wild animals around. It was surreal, and we couldn't help but laugh at our situation."
+        },
+        {
+          "type": "Postcards",
+          "value": "What's something you wish you would have known before the trip?"
+        },
+        {
+          "type": "Sneha",
+          "value": "I wish I had known that renting a car would be more challenging than expected. In hindsight, booking through a service like GetYourGuide might have provided more flexibility and safety, especially considering the nighttime mountain drive."
+        },
+        {
+          "type": "Postcards",
+          "value": "What was the best food you ate during the trip?"
+        },
+        {
+          "type": "Sneha",
+          "value": "Definitely the dinner we had in La Fortuna. They had excellent Costa Rican dishes, such as Casado (a variety of vegetables with eggs and rice, beautifully plated). Even as a vegetarian, I found plenty of delicious options."
+        },
+        {
+          "type": "Postcards",
+          "value": "What's your advice to future college-aged travelers going to Costa Rica?"
+        },
+        {
+          "type": "Sneha",
+          "value": "Be ready to rally! There's a lot to see and do, so just embrace the adventure. Also, consider using platforms like TikTok to find recommendations and plan your itinerary. It's a great tool for trip planning that helped me a lot."
+        },
+        {
+          "type": "Postcards",
+          "value": "Would you go back?"
+        },
+        {
+          "type": "Sneha",
+          "value": "Absolutely, I'd love to go back. The trip was amazing, and there's still so much more to explore in Costa Rica."
+        },
+        {
+          "type": "bighead",
+          "value": "Recommendations"
+        },
+        {
+          "type": "subhead",
+          "value": "Public transportation"
+        },
+        {
+          "type": "list",
+          "value": [
+            {
+              "type": "text",
+              "value": "You can use buses, shuttles, taxis, rental cars, domestic flights and ferries to get around Costa Rica. Buses are the most common and cheapest way to travel, but they can be slow, crowded and confusing. Shuttles are mini-buses that offer more comfort and convenience, but they are more expensive and require advance booking. Taxis are widely available and metered, but they can be expensive and unreliable in some areas. Rental cars are a good option for exploring the country at your own pace, but they can be costly and challenging to drive on some roads. Domestic flights are the fastest and easiest way to travel long distances, but they are also the most expensive and have strict luggage limits. Ferries are a scenic way to cross the Gulf of Nicoya or Lake Arenal."
+            }
+          ]
+        },
+        {
+          "type": "subhead",
+          "value": "Hostels"
+        },
+        {
+          "type": "list",
+          "value": [
+            {
+              "type": "text",
+              "value": "Camino Verde Hostel in Monteverde: A comfortable hostel with a stunning view of the mountains, a terrace, free breakfast and free coffee and tea."
+            },
+            {
+              "type": "text",
+              "value": "TripOn Open House in San Jose: A modern hostel with a friendly staff, a garden, free breakfast and free dinner."
+            },
+            {
+              "type": "text",
+              "value": "Selina Manuel Antonio in Manuel Antonio: A family-friendly hostel with a swimming pool, a yoga deck, a cinema room and a variety of dorms and private rooms."
+            }
+          ]
+        },
+        {
+          "type": "subhead",
+          "value": "Restaurants"
+        },
+        {
+          "type": "list",
+          "value": [
+            {
+              "type": "text",
+              "value": "Soda Tapia: A soda is a small and casual restaurant that serves typical Costa Rican food at affordable prices. Soda Tapia is one of the oldest and most popular sodas in San Jose. It has been operating since 1896 and offers a variety of dishes, such as gallo pinto, casado, arroz con pollo, olla de carne and more. Soda Tapia is open 24 hours a day."
+            },
+            {
+              "type": "text",
+              "value": "Doris Metropolitan: A restaurant that specializes in dry-aged steaks, with a selection of cuts and sauces to choose from. The restaurant also offers salads, seafood, pasta and desserts, as well as a wine list and cocktails."
+            },
+            {
+              "type": "text",
+              "value": "HiR Fine Dining Tamarindo: A restaurant that offers a unique and personalized seven-course meal, with input from the guests and ingredients from local farms. The restaurant uses creative techniques and zero-waste practices to create dishes such as pickled watermelon skin, frozen chutney and fish scales."
+            }
+          ]
+        },
+        {
+          "type": "subhead",
+          "value": "Nightlife"
+        },
+        {
+          "type": "list",
+          "value": [
+            {
+              "type": "text",
+              "value": "The Witches Rock in Tamarindo: A surf-themed bar that offers live music, craft beer and a friendly vibe."
+            },
+            {
+              "type": "text",
+              "value": "La Concha de la Lora in San Jose: A hip club that plays reggae, salsa and rock music and attracts a young crowd."
+            },
+            {
+              "type": "text",
+              "value": "El Cuartel de la Boca del Monte in San Jose: A cultural center that hosts live music, art exhibitions and poetry readings."
+            }
+          ]
+        },
+        {
+          "type": "subhead",
+          "value": "Excursions"
+        },
+        {
+          "type": "list",
+          "value": [
+            {
+              "type": "text",
+              "value": "Arenal Volcano and Hot Springs Tour: A thrilling tour that takes you to the active volcano and its surrounding hot springs."
+            },
+            {
+              "type": "text",
+              "value": "Monteverde Cloud Forest Tour: A magical tour that takes you to the misty forest and its diverse wildlife."
+            },
+            {
+              "type": "text",
+              "value": "Manuel Antonio National Park Tour: A tropical tour that takes you to the stunning beaches and rainforest of the park."
+            },
+            {
+              "type": "text",
+              "value": "Tortuguero National Park Tour: A wildlife tour that takes you to the canals and nesting grounds of turtles and other animals."
+            }
+          ]
+        },
+        {
+          "type": "subhead",
+          "value": "Safety"
+        },
+        {
+          "type": "list",
+          "value": [
+            {
+              "type": "text",
+              "value": "Be careful of petty theft, especially in crowded places or on public transportation."
+            },
+            {
+              "type": "text",
+              "value": "Don’t leave your valuables unattended on the beach or in your car."
+            },
+            {
+              "type": "text",
+              "value": "Don’t swim alone or in unfamiliar waters, and watch out for rip currents and crocodiles."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "iceland",
+      "headline": "Explore Reykjavík",
+      "image": "iceland.jpg",
+      "post": [
+        {
+          "type": "text",
+          "value": "Below is a piece I wrote for United’s Employee Travel Blog during my internship, chronicling my last-minute trip to Reykjavík, Iceland."
+        },
+        {
+          "type": "text",
+          "value": "It’s 8:54 p.m. as we sprint through the ORD underpass, rainbow lights and Rhapsody in Blue mocking us as the seconds tick away until the gate closure. Breathless, we arrive at Gate C15 — only to see the customer service representatives shutting the jetway door and disappointed standby travelers calculating plan B."
+        },
+        {
+          "type": "text",
+          "value": "And then? A miracle. The pilot releases the weight restriction that was originally placed on the flight, opening seats for me and fellow Corporate Communications Intern Sneha Mohan to Reykjavík, Iceland. Ecstatic doesn’t even begin to describe the feeling."
+        },
+        {
+          "type": "text",
+          "value": "From there, Sneha and I jumped headfirst into adventure mode. We spent the flight researching excursions, must-sees and Airbnbs, so that when we landed, all it took was two hours sitting in baggage claim to nail down a weekend itinerary."
+        },
+        {
+          "type": "text",
+          "value": "First, we headed on a walking tour. As we admired Reykjavík’s Rainbow Street and mountain backdrop, we learned, among other interesting facts about Icelandic culture, that you’re legally obligated to name your child from a list of about 1,000 approved names. I loved seeing the colorful city, and our guide gave helpful suggestions on where to eat and what more to experience."
+        },
+        {
+          "type": "text",
+          "value": "During the Central Time workday, we settled into a local coffee shop. Later than night, we enjoyed Icelandic soup and ice cream. Of course, 11:30 p.m. looks like broad daylight, which was surreal for me. Between my adrenaline and the ever-present sun, Iceland in the summer meant nonstop excitement."
+        },
+        {
+          "type": "text",
+          "value": "The next morning kicked off my favorite part of the trip: the Golden Circle tour. We walked along the edges of a beautiful crater, hiked above a geyser and watched it erupt, stood between the tectonic plates of North America and Eurasia, explored a canyon filled with glacier water and marveled at the Golden Waterfall. At two separate stops, we almost missed the bus because we were so captivated by the nature around us."
+        },
+        {
+          "type": "text",
+          "value": "Iceland made the world feel both vast and small — vast because there are so many natural wonders, and small because all we had to do to get there was hop on a six hour flight."
+        },
+        {
+          "type": "text",
+          "value": "In the evening, we strolled along the coast and watched the pink sunset. Bonus content for us: at Reykjavík’s tallest lookout point, we coincidentally met Phil Rosenthal from the Netflix food series, “Somebody Feed Phil!” If this sounds like a perfect day: it was."
+        },
+        {
+          "type": "text",
+          "value": "We spent our last afternoon relaxing in the Blue Lagoon. Even with the sharp winds around us, the naturally heated, peaceful water kept us comfortable. I already want to go back, so don’t be surprised to see my name on the standby list."
+        },
+        {
+          "type": "bighead",
+          "value": "Recommendations"
+        },
+        {
+          "type": "subhead",
+          "value": "Public transportation"
+        },
+        {
+          "type": "list",
+          "value": [
+            {
+              "type": "text",
+              "value": "You can use the bus, bike, or taxi to travel in the city. The bus service is called Strætó and runs from 7 a.m. to midnight on weekdays and from 10 a.m. to midnight on weekends. You can buy a single ticket or a day pass, or use a Reykjavik City Card for unlimited rides and discounts on attractions."
+            }
+          ]
+        },
+        {
+          "type": "subhead",
+          "value": "Hostels"
+        },
+        {
+          "type": "list",
+          "value": [
+            {
+              "type": "text",
+              "value": "Kex Hostel: A hip and eclectic hostel in a former biscuit factory, near the waterfront. It offers an onsite restaurant and bar, a rooftop terrace, a gym, a library, a laundry service, a luggage storage, a Wi-Fi, a lockers, a towels, a linens.13"
+            },
+            {
+              "type": "text",
+              "value": "Loft Hostel: A cozy and central hostel on the main shopping street of Laugavegur. It offers a rooftop terrace with panoramic views, a lounge with live music and events, a laundry service, a luggage storage, Wi-Fi,  lockers and towels."
+            },
+            {
+              "type": "text",
+              "value": "Bus Hostel: A budget and friendly hostel in a quiet area near Perlan. It offers an onsite bar with happy hour and karaoke nights, a lounge with board games and books, a laundry service, a luggage storage, Wi-Fi, lockers and towels."
+            }
+          ]
+        },
+        {
+          "type": "subhead",
+          "value": "Restaurants"
+        },
+        {
+          "type": "list",
+          "value": [
+            {
+              "type": "Dill",
+              "value": "The first and only Michelin-starred restaurant in Iceland, that serves Nordic cuisine with a modern twist. It uses seasonal and local ingredients, such as lamb, cod, skyr and wild herbs. It offers a tasting menu that changes weekly, as well as a curated wine list. It is located in the Nordic House cultural center and has a minimalist and sophisticated decor."
+            },
+            {
+              "type": "Grillmarkadurinn",
+              "value": "A stylish and popular restaurant that serves Icelandic cuisine with an emphasis on grilled dishes. It uses high-quality and organic ingredients, such as beef, lamb, fish, lobster and puffin. It also offers a variety of cocktails and desserts. It is located in the city center and has a cozy and rustic design."
+            },
+            {
+              "type": "text",
+              "value": "Baejarins Beztu Pylsur: A humble and legendary hot dog stand that has been operating since 1937. It serves hot dogs with various toppings, such as ketchup, mustard, fried onion, raw onion and remoulade. It is considered the best hot dog in the world by many celebrities and locals."
+            }
+          ]
+        },
+        {
+          "type": "subhead",
+          "value": "Nightlife"
+        },
+        {
+          "type": "list",
+          "value": [
+            {
+              "type": "text",
+              "value": "Lebowski Bar: A cozy and friendly place that offers burgers, fries and a full menu of different flavored White Russians. You can also enjoy live music and DJ sets on weekends."
+            },
+            {
+              "type": "Burgus",
+              "value": "A stylish spot that features a selection of local and international wines and beers. You can also taste cheese, salami and other appetizers while admiring the view of the harbor."
+            },
+            {
+              "type": "text",
+              "value": "Pub Crawls: If you want to experience the famous Icelandic way of partying, you might want to join a Pub Crawl, a guided tour that takes you to some of the best bars and clubs in Reykjavik. You will meet other travelers, get free drinks, discounts and tips from a local host."
+            }
+          ]
+        },
+        {
+          "type": "subhead",
+          "value": "Excursions"
+        },
+        {
+          "type": "list",
+          "value": [
+            {
+              "type": "text",
+              "value": "Golden Circle: A popular and scenic route that covers some of the most iconic attractions in Iceland, such as Thingvellir National Park, where you can see the rift between the North American and Eurasian tectonic plates; Geysir, where you can see the geyser that erupts every few minutes; and Gullfoss, where you can see a majestic waterfall that plunges into a canyon."
+            },
+            {
+              "type": "text",
+              "value": "Blue Lagoon: A geothermal spa that is famous for its mineral-rich water and its healing properties. You can soak in the water, enjoy a massage or a facial treatment, or explore the surrounding lava fields. You can also visit the nearby town of Grindavik, where you can see a fishing museum and a lighthouse."
+            },
+            {
+              "type": "text",
+              "value": "South Coast: A stunning and diverse region that offers a variety of natural wonders, such as Seljalandsfoss and Skógafoss waterfalls, Reynisfjara black sand beach, Dyrhólaey rock arch, Sólheimajökull glacier and Jökulsárlón glacier lagoon. You can also visit the nearby town of Vík, where you can see a church and a wool center."
+            }
+          ]
+        },
+        {
+          "type": "subhead",
+          "value": "Safety"
+        },
+        {
+          "type": "list",
+          "value": [
+            {
+              "type": "text",
+              "value": "Reykjavik is one of the safest cities in the world, but it is also a remote and expensive destination. You should be prepared for any emergencies and plan your budget accordingly. Be aware of the weather conditions and dress appropriately. Iceland can be very cold and windy, especially in winter."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "nam",
+      "headline": "Explore Vietnam",
+      "image": "nam.jpg",
+      "post": [
+        {
+          "type": "text",
+          "value": "Grace McCarthy is a seasoned traveler. When she studied abroad in Sevilla, Spain, she traveled solo for three weeks, in addition to many other trips she’s taken. She graduated Western Washington University in 2020 and now works as the editor for The Northern Light newspaper in Blaine, Washington. In October 2022, she stumbled upon cheap flights to Hanoi, Vietnam and packed her backpack for a 10-day solo trip. Grace has so much insight and experience to share; I couldn’t pass up the opportunity to interview her, even if she’s not *exactly* college-aged."
+        },
+        {
+          "type": "Postcards",
+          "value": "How did you choose to travel to Hanoi, Vietnam?"
+        },
+        {
+          "type": "Grace",
+          "value": "I usually go on vacation in October because it aligns with my work schedule, and flights tend to be cheaper during that off-season. I use Google Flights to explore options from both SeaTac and Vancouver airports, choosing the most cost-effective option. Last year, I found a $450 round-trip flight from Seattle to Hanoi, which seemed like a great deal. I was considering various destinations, including Colombia, but the affordable flight to Hanoi made it an irresistible opportunity."
+        },
+        {
+          "type": "Postcards",
+          "value": "How did you plan and prepare for your trip?"
+        },
+        {
+          "type": "Grace",
+          "value": "My research involved checking TikTok for travel insights. I’d be traveling solo, so I searched for social hostels. I opted for a hostel with organized excursions, simplifying my travel plans. I did minimal research, as I wanted to keep my plans open and flexible."
+        },
+        {
+          "type": "Postcards",
+          "value": "Can you share details about your excursions?"
+        },
+        {
+          "type": "Grace",
+          "value": "I participated in a Halong Bay overnight boat tour, which was a scenic experience with around 50 people from the hostel. I also went on a three-day motorcycle tour in the mountains. The hostel served as my base, allowing me to leave my backpack during excursions and return to a familiar environment. The excursions ranged from $150 to $250."
+        },
+        {
+          "type": "Postcards",
+          "value": "What was your favorite moment during the trip?"
+        },
+        {
+          "type": "Grace",
+          "value": "One memorable moment was during the motorcycle tour when it started pouring rain as we drove through mountainous areas. Despite the stress, once we reached the town for the night, everyone was relieved and shared laughter over a good dinner."
+        },
+        {
+          "type": "Postcards",
+          "value": "Why did you choose to travel alone, and how was your experience as a solo traveler?"
+        },
+        {
+          "type": "Grace",
+          "value": "I prefer solo travel because it allows me to prioritize my preferences without the need for compromises. Traveling alone provides a sense of freedom, and I find it easier to meet new people and hear their stories."
+        },
+        {
+          "type": "Postcards",
+          "value": "How did you pack?"
+        },
+        {
+          "type": "Grace",
+          "value": "I packed based on the expected weather, ensuring I had versatile clothing. Being vegetarian, I checked the food options in advance. I always carry a backup puffer jacket and a sleeping bag liner for hostels. I traveled with a backpack as my carry-on."
+        },
+        {
+          "type": "Postcards",
+          "value": "What do you wish you had known before your trip to Vietnam?"
+        },
+        {
+          "type": "Grace",
+          "value": "I wish I had done more research on Vietnam's history and culture. Due to the last-minute nature of the trip, I didn't have much time to delve into the background, and having more knowledge beforehand would have enhanced my appreciation of the country."
+        },
+        {
+          "type": "Postcards",
+          "value": "What was the best food you had in Vietnam, and where did you find it?"
+        },
+        {
+          "type": "Grace",
+          "value": "The best food I had was a Banh Mi sandwich in Hanoi. Despite being vegetarian, I accidentally had a non-vegetarian sandwich, but it turned out to be delicious."
+        },
+        {
+          "type": "Postcards",
+          "value": "Why is Hanoi a good destination for college students?"
+        },
+        {
+          "type": "Grace",
+          "value": "Hanoi offers a perfect combination of beauty, safety, and affordability. The city has a vibrant atmosphere, delicious food and established backpacking trails. It's a place where college students can explore and meet people from different countries."
+        },
+        {
+          "type": "Postcards",
+          "value": "What safety precautions did you take as a solo traveler in Vietnam?"
+        },
+        {
+          "type": "Grace",
+          "value": "I downloaded the Life360 app to share my location with friends and family. I stayed in hostels, preferably in female-only rooms, and took basic precautions such as being aware of my surroundings and avoiding isolated areas at night."
+        },
+        {
+          "type": "Postcards",
+          "value": "Would you go back to Vietnam, and if so, why?"
+        },
+        {
+          "type": "Grace",
+          "value": "Definitely. Vietnam has everything I look for in a trip—affordability, beauty, great food and friendly people. I would love to explore more of the country and spend more time there."
+        },
+        {
+          "type": "Postcards",
+          "value": "What advice do you have for college-age or younger travelers?"
+        },
+        {
+          "type": "Grace",
+          "value": "Just go for it. Don't let the fear of traveling alone hold you back. The initial learning curve is worth the adventure, and solo travel allows you to fully embrace your preferences without compromises."
+        },
+        {
+          "type": "bighead",
+          "value": "Recommendations"
+        },
+        {
+          "type": "subhead",
+          "value": "Public transportation"
+        },
+        {
+          "type": "list",
+          "value": [
+            {
+              "type": "text",
+              "value": "You can use buses, trains, taxis, motorbike taxis, cyclos (pedicabs) and xe om (motorbike taxis) to get around Vietnam. Buses are cheap and frequent, but they can be crowded and slow. Trains are comfortable and scenic, but not very fast. Taxis are convenient and affordable, but make sure to use a reputable company and agree on the fare before you get in. Motorbike taxis and cyclos are fun and adventurous, but not very safe or regulated. Xe om are similar to motorbike taxis, but you can also rent them for a day or longer."
+            }
+          ]
+        },
+        {
+          "type": "subhead",
+          "value": "Hostels"
+        },
+        {
+          "type": "list",
+          "value": [
+            {
+              "type": "text",
+              "value": "Old Quarter View Hano Hostel: A charming hostel with a traditional decor, free breakfast, and free beer hour."
+            },
+            {
+              "type": "text",
+              "value": "The Memory - Danang: A modern and stylish hostel with a pool, a bar, and a garden. Dorms are around $7 per night."
+            },
+            {
+              "type": "text",
+              "value": "CCASA Hostel in Nha Trang: A unique and colorful hostel with capsule beds, a common area, and a kitchen. Dorms are around $8 per night."
+            }
+          ]
+        },
+        {
+          "type": "subhead",
+          "value": "Restaurants"
+        },
+        {
+          "type": "list",
+          "value": [
+            {
+              "type": "text",
+              "value": "Pho Hanoi in Hanoi: A popular place to try authentic pho with beef or chicken broth."
+            },
+            {
+              "type": "text",
+              "value": "Pho 91 in Ho Chi Minh City: A cozy place to enjoy tasty pho and other Vietnamese dishes."
+            },
+            {
+              "type": "text",
+              "value": "Pho Viet in Hoi An: A simple but satisfying place that offers delicious pho and other noodle dishes."
+            }
+          ]
+        },
+        {
+          "type": "subhead",
+          "value": "Nightlife"
+        },
+        {
+          "type": "list",
+          "value": [
+            {
+              "type": "text",
+              "value": "Bia Hoi Corner in Hanoi: A lively street where you can drink cheap and fresh beer with locals and travelers."
+            },
+            {
+              "type": "text",
+              "value": "Apocalypse Now in Ho Chi Minh City: A legendary club that plays a mix of music genres and attracts a diverse crowd."
+            },
+            {
+              "type": "text",
+              "value": "Why Not Bar in Hoi An: A fun bar that offers live music, pool tables and free shots."
+            }
+          ]
+        },
+        {
+          "type": "subhead",
+          "value": "Excursions"
+        },
+        {
+          "type": "list",
+          "value": [
+            {
+              "type": "text",
+              "value": "Sapa Trekking: A hiking adventure that takes you to the picturesque rice terraces and ethnic villages of Sapa."
+            },
+            {
+              "type": "text",
+              "value": "Mekong Delta Tour: A cultural tour that takes you to the vibrant floating markets and rural life of the Mekong Delta."
+            },
+            {
+              "type": "text",
+              "value": "Cu Chi Tunnels Tour: A historical tour that takes you to the underground network of tunnels used by the Viet Cong during the Vietnam War."
+            }
+          ]
+        },
+        {
+          "type": "subhead",
+          "value": "Safety"
+        },
+        {
+          "type": "list",
+          "value": [
+            {
+              "type": "text",
+              "value": "Beware of scams, pickpockets, and fake taxis in tourist areas."
+            },
+            {
+              "type": "text",
+              "value": "Wear a helmet and follow traffic rules when riding a motorbike or bicycle."
+            },
+            {
+              "type": "text",
+              "value": "Avoid drinking tap water and ice cubes, and eat only well-cooked food."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "greece",
+      "headline": "Explore Greece",
+      "image": "greece.jpg",
+      "post": [
+        {
+          "type": "text",
+          "value": "Joey Harris graduated last spring from Wooster College in Ohio. I spoke with him about his post-graduation backpacking trip with his friends, which kicked off in Greece. Joey had great insights about cultural differences and fun activities in Greece."
+        },
+        {
+          "type": "Postcards",
+          "value": "Can you share the backstory of your trip to Greece and the rest of Europe?"
+        },
+        {
+          "type": "Joey",
+          "value": "Absolutely! I had been planning this European adventure for a while. I was set to spend about three weeks there, so I packed as many clothes as I could into my bags, thinking I wouldn't have many chances to do laundry. Little did I know, there were plenty of places to wash clothes. I met up with my friends, who are twins, in Greece. Their family was there for a week, renewing their vows, and then we set off for a backpacking journey across Europe."
+        },
+        {
+          "type": "Postcards",
+          "value": "Tell us about your time in Greece. Any standout experiences or places you visited?"
+        },
+        {
+          "type": "Joey",
+          "value": "Greece was incredible. We started in Loutraki, a beautiful beach town, and we spent a lot of time in the sun. We explored Athens and Corinth, tried a ton of Greek food (Tzatziki was a standout), and marveled at the beaches. Greece really set the tone for our adventure."
+        },
+        {
+          "type": "Postcards",
+          "value": "Can you share any memorable or funny moments from your time in Greece?"
+        },
+        {
+          "type": "Joey",
+          "value": "Oh, there were so many funny moments! One that sticks out is me constantly saying, \"Who knew Greek life was so big out here?\" I found it hilarious, and my friends got a kick out of it, too."
+        },
+        {
+          "type": "Postcards",
+          "value": "What were some cultural surprises or differences you encountered, especially related to food and daily life?"
+        },
+        {
+          "type": "Joey",
+          "value": "Two things that stood out were the cost of using bathrooms and the absence of American-style coffee."
+        },
+        {
+          "type": "Postcards",
+          "value": "Any travel tips for someone planning a similar journey?"
+        },
+        {
+          "type": "Joey",
+          "value": "Turn off your phone, bring a digital camera and embrace the limited cell service. Immersing yourself fully is one of the best things about the experience. And cliché as it may sound, make the most of every moment. It’s truly an awesome experience."
+        },
+        {
+          "type": "Postcards",
+          "value": "What was the most unforgettable part of your trip?"
+        },
+        {
+          "type": "Joey",
+          "value": "Seeing iconic sites that I'd only heard of or seen in pictures was surreal. The only downside was saying goodbye to my friends as we went our separate ways for the last few days."
+        },
+        {
+          "type": "Postcards",
+          "value": "Would you go back to Greece?"
+        },
+        {
+          "type": "Joey",
+          "value": "Definitely! And there are also so many other cities and countries I want to explore."
+        },
+        {
+          "type": "bighead",
+          "value": "Recommendations"
+        },
+        {
+          "type": "subhead",
+          "value": "Public transportation"
+        },
+        {
+          "type": "list",
+          "value": [
+            {
+              "type": "text",
+              "value": "You can use the metro, bus, tram, train, ferry or taxi to get around the country. The metro is available in Athens and Thessaloniki,and connects to the airport and the port. The bus network is extensive and covers both urban and rural areas. The tram operates in Athens and Piraeus and runs along the coast. The train service is limited but connects some major cities. The ferry service is the best way to travel between the islands. The taxi service is relatively cheap and easy to find."
+            }
+          ]
+        },
+        {
+          "type": "subhead",
+          "value": "Hostels"
+        },
+        {
+          "type": "list",
+          "value": [
+            {
+              "type": "text",
+              "value": "Athens Backpackers: A modern and social hostel in the heart of Athens, near the Acropolis. It offers free breakfast, free walking tours, free Wi-Fi, free lockers, free towels and free linens. It also has a rooftop bar with stunning views of the city."
+            },
+            {
+              "type": "text",
+              "value": "Caveland Santorini: A unique and cozy hostel in a former winery, located in the village of Karterados on Santorini island. It offers free breakfast, free yoga classes, free Wi-Fi, free lockers, free towels and free linens. It also has a swimming pool, a garden and a cave lounge."
+            },
+            {
+              "type": "text",
+              "value": "Stay Hostel Rhodes: A stylish and spacious hostel in the medieval town of Rhodes, near the beach. It offers free breakfast, free walking tours, free movie nights, free Wi-Fi, free lockers, free towels and  free linens. It also has a bar, a cafe, a cinema room and a game room."
+            }
+          ]
+        },
+        {
+          "type": "subhead",
+          "value": "Restaurants"
+        },
+        {
+          "type": "list",
+          "value": [
+            {
+              "type": "text",
+              "value": "Funky Gourmet: A two Michelin-starred restaurant in Athens that serves creative and innovative Greek cuisine. It offers a tasting menu that changes seasonally and showcases local ingredients and flavors. It is located in a neoclassical house and has elegant decor."
+            },
+            {
+              "type": "Selene",
+              "value": "A fine dining restaurant in Santorini that serves traditional and contemporary Greek cuisine with an emphasis on local products and recipes. It offers a variety of dishes such as lamb shank with fava beans, sea bass with tomato sauce and baklava with ice cream. It is located in Pyrgos village and has a stunning view of the island"
+            },
+            {
+              "type": "text",
+              "value": "To Ouzeri: A casual and cozy restaurant in Rhodes that serves authentic Greek cuisine. It offers a variety of dishes such as grilled octopus, fried calamari, stuffed vine leaves and tzatziki. It is located in the old town and has a friendly and relaxed atmosphere."
+            }
+          ]
+        },
+        {
+          "type": "subhead",
+          "value": "Nightlife"
+        },
+        {
+          "type": "list",
+          "value": [
+            {
+              "type": "Mykonos",
+              "value": "The party island with numerous famous bars and clubs where you can dance the night away. You can also enjoy the stunning views of the coastline and the villages from the beach bars and terraces. Some of the most popular places are Paradise Beach Club, Cavo Paradiso, and Scorpios."
+            },
+            {
+              "type": "text",
+              "value": "PK Cocktail Bar: A Santorini bar with great cocktails, superb sunset views and three levels of seating on the edge of the caldera. It is located in the center of Fira and is an excellent spot for both locals and visitors."
+            },
+            {
+              "type": "text",
+              "value": "The Clumsies: An award-winning all day bar in Athens with a refined lounge and a romantic vibe. It is run by two world-class Greek bartenders who create spectacular cocktails, such as the Chilli Con Melon, made with premium tequila, mezcal, melon, sage and a smoked chipotle."
+            }
+          ]
+        },
+        {
+          "type": "subhead",
+          "value": "Excursions"
+        },
+        {
+          "type": "list",
+          "value": [
+            {
+              "type": "text",
+              "value": "Acropolis Museum: A modern building that displays the artifacts and sculptures that were found on the Acropolis hill. You can see the original Parthenon frieze, the Caryatids, and other masterpieces of ancient Greek art."
+            },
+            {
+              "type": "Delphi",
+              "value": "An ancient and sacred site that was considered the center of the world by the Greeks. It is known for its oracle, where people would seek advice from the god Apollo."
+            },
+            {
+              "type": "text",
+              "value": "Red Beach: One of the most amazing places to visit in Santorini is the Red Beach, a unique and stunning beach that is famous for its red and black volcanic rocks and sand. The Red Beach is located near the ancient site of Akrotiri, where you can explore the ruins of a Minoan town that was buried by a volcanic eruption. To reach the beach, you can either take a short hike from the parking lot or take a boat from Akrotiri port."
+            }
+          ]
+        },
+        {
+          "type": "subhead",
+          "value": "Safety"
+        },
+        {
+          "type": "list",
+          "value": [
+            {
+              "type": "text",
+              "value": "Be aware of pickpockets, especially in crowded areas such as Athens, Thessaloniki and tourist attractions. Keep your valuables close to you and do not leave them unattended."
+            },
+            {
+              "type": "text",
+              "value": "Avoid walking alone at night in dark or isolated streets. Use public transportation or taxis instead."
+            },
+            {
+              "type": "text",
+              "value": "Beware of scams, such as people offering you fake products, services or tickets. Do not accept anything from strangers or pay in advance without a receipt."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "egypt",
+      "headline": "Explore Egypt",
+      "image": "egypt.jpg",
+      "post": [
+        {
+          "type": "text",
+          "value": "Drew Silberman completed his first round of army service for Israel’s Defense Forces in May 2023, at age 21. Post-army, he and his friends traveled to many destinations around the world, including Egypt, Portugal and Morocco. Egypt was Drew’s favorite, so we chatted about his unique experiences. After Hamas attacked Israel on Oct. 7, Drew was called back from the army reserves and re-joined a unit in Israel."
+        },
+        {
+          "type": "Postcards",
+          "value": "How did you pack for your trip?"
+        },
+        {
+          "type": "Drew",
+          "value": "Driving across the border in Eilat, Israel instead of flying spared me from worrying about bag fees. I packed my huge hiking backpack with mostly beach clothes and some snacks, ensuring a hassle-free journey."
+        },
+        {
+          "type": "Postcards",
+          "value": "Why did you choose Sinai for your trip, and what factors influenced that decision?"
+        },
+        {
+          "type": "Drew",
+          "value": "Sinai was an obvious choice because it's both cheap and easy to get to, offering a lot of attractions. The decision was influenced by its affordability, accessibility and the variety of experiences it had to offer."
+        },
+        {
+          "type": "Postcards",
+          "value": "Can you walk us through the beginning of your journey?"
+        },
+        {
+          "type": "Drew",
+          "value": "We left early on a Sunday morning, took a train to Be’er Sheva and then took a bus to Eilat. After crossing the border, we grabbed a cab to Dahab. The first night led us to a bar on the water, and we met Omar and Mustafa, two Egyptian guys our age. We ended up hanging out with them until around 3a.m."
+        },
+        {
+          "type": "Postcards",
+          "value": "Share an unforgettable moment."
+        },
+        {
+          "type": "Drew",
+          "value": "After hiking to the top of Mt. Sinai, we were with a group of about 15 travelers from different countries. With no cell service, we had two hours before sunrise, during which our unlikely group of friends shared food, told jokes and created lasting memories."
+        },
+        {
+          "type": "Postcards",
+          "value": "If you could change something about the trip, what would it be?"
+        },
+        {
+          "type": "Drew",
+          "value": "I wish I had known more Arabic phrases. We expected people to speak Hebrew or English, but that wasn't always the case."
+        },
+        {
+          "type": "Postcards",
+          "value": "Where would you recommend that college-aged people stay?"
+        },
+        {
+          "type": "Drew",
+          "value": "I’d recommend Dahab over Sharm El Sheikh, which is the main city in Sinai, simply because of the difference in the prices."
+        },
+        {
+          "type": "Postcards",
+          "value": "Were there any challenges you faced regarding scams or dealing with locals, and how did you handle it?"
+        },
+        {
+          "type": "Drew",
+          "value": "It's crucial to be assertive and watch out for scammers in Egypt, like people who will way overcharge you or flat out sell a fake product. Making local friends was invaluable in navigating these situations. Were there any specific scams to be aware of there?"
+        },
+        {
+          "type": "Postcards",
+          "value": "What were the best and worst parts of your trip, and why?"
+        },
+        {
+          "type": "Drew",
+          "value": "One of the best parts was going to the show/party in the desert on our last night. It was completely spontaneous, and I liked that we were the only foreign tourists there because we knew we were in a genuinely Egyptian place and not just some tourist trap. The worst part was watching my friend wipe out on a motorbike, but thankfully, he only had some road rash."
+        },
+        {
+          "type": "Postcards",
+          "value": "Who did you travel with, and how did your group dynamic contribute to the overall experience?"
+        },
+        {
+          "type": "Drew",
+          "value": "I traveled with my roommates, whom I'd been living with for almost a year. Our close bond and lack of stress about arguments made for a solid group dynamic."
+        },
+        {
+          "type": "Postcards",
+          "value": "Why should college-aged people travel to Egypt?"
+        },
+        {
+          "type": "Drew",
+          "value": "Visiting Egypt provides a unique experience due to its dramatically different culture compared to other popular destinations, making it valuable for college students."
+        },
+        {
+          "type": "Postcards",
+          "value": "Would you go back to Egypt?"
+        },
+        {
+          "type": "Drew",
+          "value": "100%. Not only is there a ton to do, but the cheap prices make it possible to do a lot of different experiences without stressing about how much money you're spending."
+        },
+        {
+          "type": "bighead",
+          "value": "Recommendations"
+        },
+        {
+          "type": "subhead",
+          "value": "Public transportation"
+        },
+        {
+          "type": "list",
+          "value": [
+            {
+              "type": "text",
+              "value": "You can use buses, trains, taxis, microbuses, metro and feluccas (traditional sailboats) to get around Egypt. Buses are cheap and reliable, but not very comfortable or safe. Trains are more comfortable and faster, but more expensive and less frequent. Taxis are easy to find and negotiate, but be aware of scams and traffic jams. Microbuses are small vans that run on fixed routes and fares, but they are often overcrowded and reckless. Metro is a subway system that operates in Cairo, and it is fast, cheap and clean. Feluccas are a great way to enjoy the Nile River, but they are not suitable for long distances."
+            }
+          ]
+        },
+        {
+          "type": "subhead",
+          "value": "Hostels"
+        },
+        {
+          "type": "list",
+          "value": [
+            {
+              "type": "text",
+              "value": "Dahab Hostel in Cairo: A rooftop hostel with a stunning view of the city, a garden, a cafe, a library and free breakfast."
+            },
+            {
+              "type": "text",
+              "value": "Bob Marley Peace Hotel in Luxor: A colorful hostel with a friendly vibe, a terrace, a restaurant, free breakfast and free airport pick-up."
+            },
+            {
+              "type": "text",
+              "value": "Penguin Village in Dahab: A beachfront hostel with a diving center, a restaurant, a bar, free breakfast and free Wi-Fi."
+            },
+            {
+              "type": "text",
+              "value": "Nubian Oasis Hostel in Aswan: A budget hostel with a Nubian style, a rooftop terrace, free breakfast and free tea and coffee."
+            }
+          ]
+        },
+        {
+          "type": "subhead",
+          "value": "Restaurants"
+        },
+        {
+          "type": "list",
+          "value": [
+            {
+              "type": "text",
+              "value": "Kazoku in New Cairo City: A cozy and elegant restaurant that serves Japanese fusion cuisine, such as sushi, sashimi, ramen, and teppanyaki. It has a rooftop terrace with a stunning view of the Swan Lake Compound."
+            },
+            {
+              "type": "text",
+              "value": "Fayruz Lebanese Restaurant in Cairo: A sophisticated and authentic restaurant that offers Lebanese dishes, such as mezze, grilled meats, salads and desserts. It has a live band and belly dancers that perform every night."
+            },
+            {
+              "type": "text",
+              "value": "Fish Market Restaurant in Alexandria: A casual and lively restaurant that specializes in seafood, such as fish, shrimp, calamari and lobster."
+            }
+          ]
+        },
+        {
+          "type": "subhead",
+          "value": "Nightlife"
+        },
+        {
+          "type": "list",
+          "value": [
+            {
+              "type": "text",
+              "value": "Cairo Jazz Club in Cairo: A popular club that hosts live music, DJs and themed nights."
+            },
+            {
+              "type": "text",
+              "value": "Sequoia in Cairo: A chic restaurant and lounge that overlooks the Nile River and serves Mediterranean cuisine and shisha."
+            },
+            {
+              "type": "text",
+              "value": "Little Buddha in Hurghada: A stylish club that features a sushi bar, a dance floor and a Buddha statue."
+            }
+          ]
+        },
+        {
+          "type": "subhead",
+          "value": "Excursions"
+        },
+        {
+          "type": "list",
+          "value": [
+            {
+              "type": "text",
+              "value": "Pyramids of Giza Tour: A must-see tour that takes you to the iconic pyramids and sphinx of Giza."
+            },
+            {
+              "type": "text",
+              "value": "Valley of the Kings Tour: An archaeological tour that takes you to the tombs of the pharaohs and nobles in Luxor."
+            },
+            {
+              "type": "text",
+              "value": "Nile Cruise: A relaxing cruise that takes you to the temples and monuments along the Nile River."
+            }
+          ]
+        },
+        {
+          "type": "subhead",
+          "value": "Safety"
+        },
+        {
+          "type": "list",
+          "value": [
+            {
+              "type": "text",
+              "value": "Avoid demonstrations, protests, and crowds and follow the advice of local authorities."
+            },
+            {
+              "type": "text",
+              "value": "Dress modestly and respectfully, especially when visiting religious sites."
+            },
+            {
+              "type": "text",
+              "value": "Bargain hard and agree on prices before buying anything or taking any service."
+            },
+            {
+              "type": "text",
+              "value": "Drink bottled water and avoid raw or unpeeled fruits and vegetables."
+            },
+            {
+              "type": "text",
+              "value": "Protect yourself from the sun, heat, and sand and drink plenty of fluids."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "tokyo",
+      "headline": "Explore Tokyo",
+      "image": "tokyo.jpg",
+      "post": [
+        {
+          "type": "text",
+          "value": "Fletcher Block is a junior sociology major at Princeton University. He interned with me at United Airlines. I chatted with Fletcher about his five-day, spontaneous, solo trip to Tokyo, Japan. He has great insights about efficiency, cost and overall fun in the city!"
+        },
+        {
+          "type": "Postcards",
+          "value": "How did you choose Tokyo as your travel destination?"
+        },
+        {
+          "type": "Fletcher",
+          "value": "Tokyo was a place that I thought would be really cool to visit. Plus, I had the advantage of having free standby flights from my internship at United Airlines. So, I found an available spot to Tokyo and decided to hop on the flight."
+        },
+        {
+          "type": "Postcards",
+          "value": "How did you pack?"
+        },
+        {
+          "type": "Fletcher",
+          "value": "I packed everything in a carry-on bag for the five days I was there. Looking back, I wish I had left a little more room in my bag because clothes were cheaper in Japan, and there was a lot of shopping to do. But it worked out, although it was the tightest packing I've ever done."
+        },
+        {
+          "type": "Postcards",
+          "value": "Can you give us a detailed walkthrough of your trip, starting from when you landed in Tokyo?"
+        },
+        {
+          "type": "Fletcher",
+          "value": "Absolutely! When I first arrived, I didn't do much research beforehand, but I had booked an Airbnb in advance. I navigated the airport and eventually got a Suica card to pay for the trains. Throughout my trip, I used Apple Maps and Google Maps to navigate the subway system, which was incredibly convenient. Tokyo's subway system is quite organized, with every stop labeled, which made getting around easy. I stayed in the Shinjuku area, where I did some shopping at places like Uniqlo. I also visited the Tokyo Dome, which has roller coasters and other attractions. I made sure to see the Tokyo Tower and the Tokyo Sky Tree, where you can even catch a glimpse of Mount Fuji on a clear day. I also visited an art museum with a Sky Deck and explored some beautiful shrines. I went to a unique art installation called TeamLab Tokyo, which was quite an immersive experience. I wrapped up my trip with a visit to Disney Sea, a theme park near the airport."
+        },
+        {
+          "type": "Postcards",
+          "value": "That's impressive! Did you encounter any interesting or surprising moments during your trip?"
+        },
+        {
+          "type": "Fletcher",
+          "value": "One interesting thing was how everyone in Tokyo followed societal rules very strictly. For example, they don't run onto the subway, and this is emphasized with signs and announcements. In the U.S., we tend to bend the rules more."
+        },
+        {
+          "type": "Postcards",
+          "value": "What were some of the highlights of your trip? What stood out the most?"
+        },
+        {
+          "type": "Fletcher",
+          "value": "It's challenging to pick just one thing, but what really stood out was how different everything was in Tokyo—the city, the language and the overall culture. It was an incredible experience to immerse myself in a completely different environment."
+        },
+        {
+          "type": "Postcards",
+          "value": "Can you tell us about the best food you had and where you enjoyed it?"
+        },
+        {
+          "type": "Fletcher",
+          "value": "Oh, wow. I had some fantastic meals during my trip. One memorable meal was broiled eel over rice on my first night in Tokyo. I also had some great dumplings and Korean fried chicken in the Shinjuku area. And, of course, the fluffy pancakes in Ginza were amazing."
+        },
+        {
+          "type": "Postcards",
+          "value": "What did nightlife look like on your trip?"
+        },
+        {
+          "type": "Fletcher",
+          "value": "I went out one night with a friend in Shibuya, known for its famous pedestrian crossing. It was an interesting experience, but we found ourselves to be some of the tallest people there, which was amusing. I’m 5’10”."
+        },
+        {
+          "type": "Postcards",
+          "value": "How did you feel about solo travel versus being with friends during your trip?"
+        },
+        {
+          "type": "Fletcher",
+          "value": "I enjoyed both aspects of the trip. Traveling with friends is great because you have companionship, but I also learned to appreciate solo travel during this trip. It gives you more flexibility and the opportunity to explore on your terms."
+        },
+        {
+          "type": "Postcards",
+          "value": "Based on your experience, what advice would you give to college students who are eager to explore Tokyo?"
+        },
+        {
+          "type": "Fletcher",
+          "value": "My advice would be to plan your trip in advance, especially if you have limited time. Tokyo has so much to offer, and having a rough itinerary can help you make the most of your visit."
+        },
+        {
+          "type": "Postcards",
+          "value": "Would you go back to Tokyo?"
+        },
+        {
+          "type": "Fletcher",
+          "value": "For sure. There's still so much more to explore, like Kyoto and Mount Fuji. It would also be exciting to experience Tokyo during different seasons, such as skiing in the winter."
+        },
+        {
+          "type": "Postcards",
+          "value": "Finally, for college students on a budget, how did the overall cost of your trip compare to your expectations?"
+        },
+        {
+          "type": "Fletcher",
+          "value": "Tokyo can be expensive to get to, but once you're there, you can manage your expenses. My Airbnb cost $350 for four nights, which wasn't too bad considering the location. So, while the initial flight might be pricey, you can find ways to make the most of your budget once you're in Tokyo."
+        },
+        {
+          "type": "bighead",
+          "value": "Recommendations"
+        },
+        {
+          "type": "subhead",
+          "value": "Public transportation"
+        },
+        {
+          "type": "list",
+          "value": [
+            {
+              "type": "text",
+              "value": "You can use the subway, train, bus or taxi to navigate the city. The subway is the most popular and efficient way to travel, with 13 lines and over 300 stations. You can buy a single ticket or a prepaid card, such as Suica or Pasmo, which can also be used on trains and buses. The train service is extensive and connects to other cities and regions. The bus service is cheaper but slower and less frequent than the subway or train. The taxi service is expensive, but convenient and reliable."
+            }
+          ]
+        },
+        {
+          "type": "subhead",
+          "value": "Hostels"
+        },
+        {
+          "type": "list",
+          "value": [
+            {
+              "type": "text",
+              "value": "Khaosan Tokyo Kabuki: A colorful and fun hostel in the heart of Asakusa, near Sensoji Temple and Nakamise Street. It offers free Wi-Fi, free lockers, free towels and  free linens. It also has a rooftop terrace, a lounge and a kitchen."
+            },
+            {
+              "type": "text",
+              "value": "Wise Owl Hostels Shibuya: A trendy and cool hostel in the lively Shibuya area, near Shibuya Crossing and Harajuku. It offers free Wi-Fi, free lockers and free linens. It also has an onsite cafe and bar, a lounge and a kitchen."
+            },
+            {
+              "type": "text",
+              "value": "Emblem Hostel Nishiarai: A cozy and social hostel in the quiet Nishiarai neighborhood, near Nishiarai Daishi Temple and Nishiarai Station. It offers free breakfast, free walking tours, free cultural events, free Wi-Fi, free lockers and  free linens. It also has an onsite restaurant and bar, a lounge, and a kitchen."
+            }
+          ]
+        },
+        {
+          "type": "subhead",
+          "value": "Restaurants"
+        },
+        {
+          "type": "list",
+          "value": [
+            {
+              "type": "text",
+              "value": "Sukiyabashi Jiro: A three Michelin-starred restaurant in Tokyo that serves sushi and Japanese cuisine with a focus on excellence and perfection. It offers a set menu of 20 pieces of sushi that are prepared by the master chef Jiro Ono and his son. It is located in Ginza district."
+            },
+            {
+              "type": "Narisawa",
+              "value": "A two Michelin-starred restaurant in Tokyo that serves innovative and sustainable cuisine with a respect for nature and the environment. It offers a tasting menu that changes seasonally and reflects the chef’s philosophy of “Satoyama.”  It is located in Minato district."
+            },
+            {
+              "type": "text",
+              "value": "Kawaii Monster Cafe: A colorful and quirky restaurant in Tokyo that serves international cuisine with a twist. It offers a variety of dishes such as rainbow pasta, monster burgers, popcorn shrimp and cotton candy. It is located in Harajuku district."
+            }
+          ]
+        },
+        {
+          "type": "subhead",
+          "value": "Nightlife"
+        },
+        {
+          "type": "list",
+          "value": [
+            {
+              "type": "text",
+              "value": "Roppongi Hills: A complex that houses a shopping mall, an office tower, a hotel, a cinema, a museum and a park. It also has a variety of bars and restaurants that offer a stunning view of the city."
+            },
+            {
+              "type": "Muse",
+              "value": "A chic and popular club that has four floors with different music styles, such as R&B, hip hop, house and techno. It also has a VIP area, a lounge,and a terrace."
+            },
+            {
+              "type": "text",
+              "value": "Mori Art Museum: A contemporary art museum that showcases works by Japanese and international artists. It also has a bar and a cafe that offer a panoramic view of the city."
+            }
+          ]
+        },
+        {
+          "type": "subhead",
+          "value": "Excursions"
+        },
+        {
+          "type": "list",
+          "value": [
+            {
+              "type": "text",
+              "value": "Tokyo Skytree: Visit the tallest tower in the world and enjoy the panoramic view of the city from its observation decks. You can also explore the Solamachi shopping mall, the Sumida Aquarium and the Planetarium at its base."
+            },
+            {
+              "type": "Asakusa",
+              "value": "Experience the traditional and modern aspects of Japanese culture at Asakusa, where you can see the Sensoji Temple, the oldest temple in Tokyo, and the Nakamise Street, a shopping street that sells souvenirs and snacks. You can also ride a rickshaw or a water bus to see the sights"
+            },
+            {
+              "type": "Shibuya",
+              "value": "Shop in the heart of Tokyo’s youth and fashion scene. You can see the famous Shibuya Crossing, where thousands of people cross the street at once, and the Hachiko statue, a symbol of loyalty and friendship. You can also find a variety of shops, cafes, bars and clubs in the area."
+            }
+          ]
+        },
+        {
+          "type": "subhead",
+          "value": "Safety"
+        },
+        {
+          "type": "list",
+          "value": [
+            {
+              "type": "text",
+              "value": "Tokyo is one of the safest cities in the world, but you should still be careful and respectful when visiting. Be aware of the natural disasters that can occur in Japan, such as earthquakes, tsunamis, and typhoons. Follow the instructions of the authorities and seek shelter if necessary."
+            },
+            {
+              "type": "text",
+              "value": "Respect the local etiquette and manners, especially in public places such as trains, temples and restaurants. Do not talk loudly, eat or drink on the go or tip the staff. Do bow when greeting someone and take off your shoes when entering a house or a tatami room."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "amdam",
+      "headline": "Explore Amsterdam",
+      "image": "amdam.jpg",
+      "post": [
+        {
+          "type": "text",
+          "value": "Leni Steinhardt is a senior journalism major at the University of Texas, just like me. She even studied abroad in Madrid at the same time I did. I chatted with Leni about her weekend trip to Amsterdam this past March. She shared great highlights and must-dos in the city."
+        },
+        {
+          "type": "Postcards",
+          "value": "How did you pack for your trip?"
+        },
+        {
+          "type": "Leni",
+          "value": "To be completely honest, after weeks of traveling around Europe I got into the terrible habit of leaving my backpack (which was my suitcase for the whole semester) at the base of my bed for the entire week. I knew it was going to be cold so I made sure to pack my warmest jacket and think pants. I still managed to forget my mittens!"
+        },
+        {
+          "type": "Postcards",
+          "value": "How did you choose to go to Amsterdam?"
+        },
+        {
+          "type": "Leni",
+          "value": "I had been before when I was 13, during the summer. I wanted to experience Amsterdam in the cold and as an adult – or closer to an adult. To this day it’s still one of my favorite cities and one of the only ones from past travels that I wanted to go back to!"
+        },
+        {
+          "type": "Postcards",
+          "value": "Walk me through your trip itinerary."
+        },
+        {
+          "type": "Leni",
+          "value": "Laine, my friend from Texas, came and visited me in Amsterdam. It was one of my first times flying solo abroad but we made sure to coordinate that her flight from New York and mine from Madrid landed at the same time. I waited for my friend Laine in baggage claim and once she arrived we immediately headed to the hotel!"
+        },
+        {
+          "type": "text",
+          "value": "After dropping our bags off we were starving so we headed to get pancakes- famous in Amsterdam. We had a glorious breakfast at Pancake Amsterdam and then immediately went shopping to find my mittens because it had begun snowing! After some shopping we took a canal ride with “Those Dam Boat Guys.” We’d reserved it in advance. Even with the thin visibility with all the snow it was still magical to see Amsterdam by boat! After the boat we headed to the Tulip Museum where we learned about the Netherlands flower!"
+        },
+        {
+          "type": "text",
+          "value": "Our second day was jam packed with a visit to the bench from the movie “The Fault in Our Stars”. After seeing the bench we spent time at Anne Frank House. I had been when I was 13 but I refused to go to Amsterdam without seeing it again. It’s an impactful and emotional walk through the museum, but an important one. After the house we explored one of the many flower markets along the canals. When we got hungry we made sure to get some stroopwaffles even if it meant standing in a line for an hour. I still dream of the Stroop waffles. After the waffles we went to the Heineken Storehouse – one of the highlights of Amsterdam for sure. Even though I don’t drink a lot of beer it was really interesting to learn about the history of Heineken!"
+        },
+        {
+          "type": "Postcards",
+          "value": "What was a moment on your trip that made you laugh?"
+        },
+        {
+          "type": "Leni",
+          "value": "When my friend and I went to The Fault in Our Stars bench. We’re both huge fans of the movie, and the entire time we couldn’t stop quoting “okay? Okay.”"
+        },
+        {
+          "type": "Postcards",
+          "value": "What do you wish you would have known going into your trip?"
+        },
+        {
+          "type": "Leni",
+          "value": "I wish I would have known when tulip season is! I possibly would have delayed my trip if I knew that the tulip season began just three weeks after I visited. I guess this means I have to go back to experience Amsterdam in the spring."
+        },
+        {
+          "type": "bighead",
+          "value": "Recommendations"
+        },
+        {
+          "type": "subhead",
+          "value": "Public transportation"
+        },
+        {
+          "type": "list",
+          "value": [
+            {
+              "type": "text",
+              "value": "You can use trams, buses, metro, trains, bikes, taxis, boats and walking to get around Amsterdam. Trams are the most popular and convenient way to travel within the city center, but they can be crowded and slow during peak hours. Buses are useful for reaching the outskirts of the city or nearby towns, but they are also subject to traffic delays. Metro is a subway system that connects the city center with the suburbs, but it is not very extensive or frequent. Trains are the best way to travel between Amsterdam and other cities in the Netherlands or Europe, but they can be expensive if you don’t book in advance. Bikes are the most common and fun way to explore Amsterdam like a local, but you need to be careful of traffic rules and bike thefts. Taxis are easy to find and hail, but they are very expensive and not very eco-friendly. Boats are a great way to enjoy the canals and see the city from a different perspective."
+            }
+          ]
+        },
+        {
+          "type": "subhead",
+          "value": "Hostels"
+        },
+        {
+          "type": "list",
+          "value": [
+            {
+              "type": "text",
+              "value": "ClinkNOORD in Noord: A trendy hostel with a creative vibe, a bar, a cafe, a library, and free walking tours."
+            },
+            {
+              "type": "text",
+              "value": "Flying Pig Downtown in Centrum: A party hostel with a lively atmosphere, a bar, a smoking lounge, and free breakfast."
+            },
+            {
+              "type": "text",
+              "value": "Ecomama in Centrum: An eco-friendly hostel with a cozy design, a communal kitchen, a teepee tent lounge, and free yoga classes."
+            }
+          ]
+        },
+        {
+          "type": "subhead",
+          "value": "Restaurants"
+        },
+        {
+          "type": "list",
+          "value": [
+            {
+              "type": "text",
+              "value": "Restaurant Ambassade: This elegant restaurant offers international cuisine with a French base while being surrounded by colorful paintings from famous CoBrA artists. The emphasis lies on fresh, seasonal, artisanal and local products."
+            },
+            {
+              "type": "text",
+              "value": "The Pantry: This cozy and relaxed place serves home-made dishes from Dutch cuisine in a homely atmosphere. You can enjoy traditional dishes like erwtensoep (split pea soup), stampot (mashed potatoes with vegetables and meat) and hachee (beef stew) with a glass of beer or wine."
+            },
+            {
+              "type": "text",
+              "value": "Pancakes Amsterdam Negen Straatjes: This is a popular pancake restaurant that offers traditional Dutch pancakes as well as international varieties. They use organic flour from a local windmill and have gluten-free and vegan options."
+            }
+          ]
+        },
+        {
+          "type": "subhead",
+          "value": "Nightlife"
+        },
+        {
+          "type": "list",
+          "value": [
+            {
+              "type": "text",
+              "value": "Paradiso in Centrum: A former church that has been converted into a concert hall that hosts famous bands and DJs."
+            },
+            {
+              "type": "text",
+              "value": "Melkweg in Centrum: A cultural center that offers live music, cinema, theater, and dance events."
+            },
+            {
+              "type": "text",
+              "value": "De School in West: A former school that has been transformed into a club that features underground music and art."
+            }
+          ]
+        },
+        {
+          "type": "subhead",
+          "value": "Excursions"
+        },
+        {
+          "type": "list",
+          "value": [
+            {
+              "type": "text",
+              "value": "Anne Frank House Tour: A moving tour that takes you to the hiding place and museum of Anne Frank and her family."
+            },
+            {
+              "type": "text",
+              "value": "Rijksmuseum Tour: A magnificent tour that takes you to the national museum of art and history."
+            },
+            {
+              "type": "text",
+              "value": "Van Gogh Museum Tour: An inspiring tour that takes you to the museum dedicated to the life and work of Vincent van Gogh."
+            },
+            {
+              "type": "text",
+              "value": "Heineken Experience Tour: A fun tour that takes you to the former brewery and interactive museum of Heineken."
+            }
+          ]
+        },
+        {
+          "type": "subhead",
+          "value": "Safety"
+        },
+        {
+          "type": "list",
+          "value": [
+            {
+              "type": "text",
+              "value": "Be aware of bike lanes and traffic rules."
+            },
+            {
+              "type": "text",
+              "value": "Don’t buy or use any drugs from street dealers or strangers, and be careful of your limits if you try any legal substances."
+            },
+            {
+              "type": "text",
+              "value": "Don’t take pictures or videos of people in the red light district or other sensitive areas without their consent."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
