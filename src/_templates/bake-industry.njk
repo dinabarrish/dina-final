@@ -11,12 +11,14 @@
     <div class="row">
       <div class="col-sm-4">
         <hr class="d-sm-none">
+        <img src="../img/{{ image }}" alt="" class="img-fluid mb-4" style="width: 100%;">
       </div>
       <div class="col-sm-8">
-        <img src="../img/{{ image }}" alt="" class="img-fluid mb-4">
         <h1>{{ headline }}</h1>
         {{ prose(post) }}
       </div>
     </div>
   </article>
 {% endblock %}
+
+
