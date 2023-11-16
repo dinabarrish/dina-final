@@ -4,6 +4,7 @@
       "slug": "tlv",
       "headline": "Explore Tel Aviv",
       "image": "tlv.jpg",
+      "image-2": "tlv-map.jpg",
       "post": [
         {
           "type": "text",
@@ -149,6 +150,7 @@
       "slug": "madrid",
       "headline": "Explore Madrid",
       "image": "madrid.jpg",
+      "image-2": "madrid-map.jpg",
       "post": [
         {
           "type": "text",
@@ -302,6 +304,7 @@
       "slug": "italy",
       "headline": "Explore Cinque Terre",
       "image": "italy.jpg",
+      "image-2": "italy-map.jpg",
       "post": [
         {
           "type": "text",
@@ -495,6 +498,7 @@
       "slug": "rica",
       "headline": "Explore Costa Rica",
       "image": "rica.jpg",
+      "image-2": "rica-map.jpg",
       "post": [
         {
           "type": "text",
@@ -688,6 +692,7 @@
       "slug": "iceland",
       "headline": "Explore Reykjavík",
       "image": "iceland.jpg",
+      "image-2": "iceland-map.jpg",
       "post": [
         {
           "type": "text",
@@ -845,6 +850,7 @@
       "slug": "nam",
       "headline": "Explore Vietnam",
       "image": "nam.jpg",
+      "image-2": "nam-map.jpg",
       "post": [
         {
           "type": "text",
@@ -1074,6 +1080,7 @@
       "slug": "greece",
       "headline": "Explore Greece",
       "image": "greece.jpg",
+      "image-2": "greece-map.jpg",
       "post": [
         {
           "type": "text",
@@ -1263,6 +1270,7 @@
       "slug": "egypt",
       "headline": "Explore Egypt",
       "image": "egypt.jpg",
+      "image-2": "egypt-map.jpg",
       "post": [
         {
           "type": "text",
@@ -1496,6 +1504,7 @@
       "slug": "tokyo",
       "headline": "Explore Tokyo",
       "image": "tokyo.jpg",
+      "image-2": "tokyo-map.jpg",
       "post": [
         {
           "type": "text",
@@ -1713,6 +1722,7 @@
       "slug": "amdam",
       "headline": "Explore Amsterdam",
       "image": "amdam.jpg",
+      "image-2": "amdam-map.jpg",
       "post": [
         {
           "type": "text",

@@ -7,16 +7,22 @@
 {% block content %}
   <div class="container">
     <div class="row">
-      <div class="col-12 col-md-4">
-        <img src="img/airplane.jpg" alt="Airplane Image" class="img-fluid">
-      </div>
       <div class="col-12 col-md-8">
         <h1>Destinations</h1>
         <p>Browse through any of these 10 destinations to read Q+As with college students and recommendations for each travel spot!</p>
-        <div class="blog-list">
+        <div class="row">
           {% for country in destinations.blogs %}
-            <div class="blog-entry">
-              <a href="destinations/{{ country.slug }}.html" target="_blank">{{ country.headline }}</a>
+            <div class="col-6 col-md-4 col-lg-3 mb-4">
+              <a href="destinations/{{ country.slug }}.html" class="card-link">
+                <div class="card" style="width: 100%;">
+                  <img src="../img/{{ country['image-2'] }}" class="card-img-top" alt="map image">
+                  <div class="card-body">
+                    <h5 class="card-title" style="overflow: hidden; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; font-size: 1rem;">
+                      {{ country.headline }}
+                    </h5>
+                  </div>
+                </div>
+              </a>
             </div>
           {% endfor %}
         </div>
@@ -24,3 +30,7 @@
     </div>
   </div>
 {% endblock %}
+
+
+
+
