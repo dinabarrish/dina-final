@@ -4,6 +4,7 @@
       "slug": "tpg",
       "headline": "Meet Zach Griff, the Av Geek who travels the world for The Points Guy",
       "image": "tpg.jpg",
+      "caption": "Interior design of an airplane.",
       "post": [
         {
           "type": "text",
@@ -75,6 +76,7 @@
       "slug": "dube",
       "headline": "Packing tips from a pro: Aviation writer Rachel Dube is “addicted” to travel",
       "image": "dube.jpg",
+      "caption": "An efficiently packed suitcase.",
       "post": [
         {
           "type": "text",
@@ -139,6 +141,7 @@
       "slug": "solo",
       "headline": "Solo travel doesn’t have to be scary, just ask this University of Texas student",
       "image": "solo.jpg",
+      "caption": "Traveler sits alone, taking in surrounding sights.",
       "post": [
         {
           "type": "text",
@@ -206,6 +209,7 @@
       "slug": "flight",
       "headline": "Flight attendant experiences 40 years of ups and downs in aviation",
       "image": "flight.jpg",
+      "caption": "Flight attendant gives safety demonstration to passengers.",
       "post": [
         {
           "type": "text",
@@ -277,6 +281,7 @@
       "slug": "safety",
       "headline": "Learn travel safety tips from the experts",
       "image": "safety.jpg",
+      "caption": "Seatbelt sign on a plane.",
       "post": [
         {
           "type": "text",

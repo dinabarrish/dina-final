@@ -5,6 +5,7 @@
       "headline": "Explore Tel Aviv",
       "image": "tlv.jpg",
       "image-2": "tlv-map.jpg",
+      "caption": "The sun sets on Jerusalem Beach in Tel Aviv.",
       "post": [
         {
           "type": "text",
@@ -151,6 +152,7 @@
       "headline": "Explore Madrid",
       "image": "madrid.jpg",
       "image-2": "madrid-map.jpg",
+      "caption": "Parque Retiro visitors sit on sculpture steps on a fall afternoon.",
       "post": [
         {
           "type": "text",
@@ -305,6 +307,7 @@
       "headline": "Explore Cinque Terre",
       "image": "italy.jpg",
       "image-2": "italy-map.jpg",
+      "caption": "Brightly colored houses and flowers decorate Cinque Terre’s scenery. Photo courtesy of Maddie Harris.",
       "post": [
         {
           "type": "text",
@@ -499,6 +502,7 @@
       "headline": "Explore Costa Rica",
       "image": "rica.jpg",
       "image-2": "rica-map.jpg",
+      "caption": "Sneha and friends smile in front of a Costa Rica waterfall. Photo courtesy of Sneha Mohan.",
       "post": [
         {
           "type": "text",
@@ -693,6 +697,7 @@
       "headline": "Explore Reykjavík",
       "image": "iceland.jpg",
       "image-2": "iceland-map.jpg",
+      "caption": "The kerid crater outside of Reykjavík glistens in the sunlight.",
       "post": [
         {
           "type": "text",
@@ -851,6 +856,7 @@
       "headline": "Explore Vietnam",
       "image": "nam.jpg",
       "image-2": "nam-map.jpg",
+      "caption": "Mountains and water create a beautiful view in Halong Bay in Vietnam. Photo courtesy of Grace McCarthy.",
       "post": [
         {
           "type": "text",
@@ -1081,6 +1087,7 @@
       "headline": "Explore Greece",
       "image": "greece.jpg",
       "image-2": "greece-map.jpg",
+      "caption": "Visitors gather in front of the Acropolis of Athens and the flag of Greece. Photo courtesy of Joey Harris.",
       "post": [
         {
           "type": "text",
@@ -1271,6 +1278,7 @@
       "headline": "Explore Egypt",
       "image": "egypt.jpg",
       "image-2": "egypt-map.jpg",
+      "caption": "Drew Silberman carries a mat atop a mountain in Egypt.",
       "post": [
         {
           "type": "text",
@@ -1509,6 +1517,7 @@
       "headline": "Explore Tokyo",
       "image": "tokyo.jpg",
       "image-2": "tokyo-map.jpg",
+      "caption": "Tourists admire the Kaminarimon, one of two large entrance gates to the Sensō-ji, an ancient Buddhist temple, in Asakusa, Tokyo, Japan. Photo courtesy of Fletcher Block.",
       "post": [
         {
           "type": "text",
@@ -1727,6 +1736,7 @@
       "headline": "Explore Amsterdam",
       "image": "amdam.jpg",
       "image-2": "amdam-map.jpg",
+      "caption": "A boat crosses a canal in Amsterdam.",
       "post": [
         {
           "type": "text",
