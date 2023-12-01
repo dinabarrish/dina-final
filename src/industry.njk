@@ -6,11 +6,11 @@
 
 {% block content %}
 <article class="container">
-  <h1>Industry Insights</h1>
-  <p>Learn about the aviation geek life, flight attendants, efficient packing, solo travel and travel safety tips from the experts.</p>
-     <div class="row">
+  <h1 class="text-center">Industry Insights</h1>
+  <p class="text-center">Learn about the aviation geek life, flight attendants, efficient packing, solo travel, and travel safety tips from the experts.</p>
+  <div class="row">
     {% for feature in insights.experts %}
-    <div class="col-sm-6 col-lg-4">
+    <div class="col-sm-6 col-lg-4{% if loop.index is odd %} offset-lg-2{% endif %}">
       <div class="card mb-4 bg-light text-black">
         <div class="card-body">
           <h5 class="card-title">{{ feature.headline }}</h5>
@@ -20,7 +20,8 @@
     </div>
     {% endfor %}
   </div>
-  </div>
 </article>
 {% endblock %}
+
+
  
